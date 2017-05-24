@@ -12,8 +12,8 @@ _eventId = xml_tree.xpath('//input[@name="_eventId"]/@value')
 rmShown = xml_tree.xpath('//input[@name="rmShown"]/@value')
 
 #set username and password
-username = '14010510064'
-password = '290415'
+username = '...'
+password = '...'
 
 #login, get cookie
 log_headers = {
